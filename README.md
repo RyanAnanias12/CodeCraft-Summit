@@ -1,6 +1,7 @@
 # CodeCraft Summit 2025 🚀
 
-![Preview do Projeto](./codecraft.png)
+![Preview do Projeto]![codecraft](https://github.com/user-attachments/assets/be209a79-d7ac-4bca-ab87-e6e26d57a9ea)
+
 
 **CodeCraft Summit** é uma página de inscrição para um evento online voltado a desenvolvedores(as), com foco em inovação, tecnologia e colaboração.
 
